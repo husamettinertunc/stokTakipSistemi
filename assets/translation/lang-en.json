@@ -1,0 +1,7 @@
+{
+    "LBL_USERNAME" : "Username",
+    "LBL_LOGIN_PASSWORD" : "Password",
+    "BTN_LOGIN_FORGET_MY_PASSWORD" : "Forget my password",
+    "BTN_LOGIN": "Login",
+    "BTN_SEND" : "Send"
+}

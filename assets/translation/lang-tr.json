@@ -1,0 +1,7 @@
+{
+   "LBL_USERNAME" : "Kullanıcı Adı",
+   "LBL_LOGIN_PASSWORD" : "Parola",
+   "BTN_LOGIN_FORGET_MY_PASSWORD" : "Parolamı Unuttum",
+   "BTN_LOGIN" : "Giriş",
+   "BTN_SEND" : "Gönder"
+}

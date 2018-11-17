@@ -1,0 +1,28 @@
+<div id="callMeModal" role="dialog" class="modal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body callMeModal">
+
+            <button type="button" class="close" ng-click="closeCallMe()" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+              <div class="callMeModalHeader">
+                  {{'LBL_CALL_ME' | translate}}
+                  <hr>
+              </div>
+                <div class="form-group">
+                    <label for="phone"> {{'LBL_CALL_ME_PHONE' | translate}}</label>
+                    <input type="text" class="form-control" id="phone">
+                  </div>
+                  <div class="form-group">
+                    <label for="note"> {{'LBL_CALL_ME_NOTE' | translate}}</label>
+                    <input type="text" class="form-control" id="note">
+                  </div>
+                  <div class="">
+                    <button type="button" class="btn btn-default"> {{'BTN_SEND' | translate}}</button>
+                  </div>
+
+        </div>
+      </div>
+    </div>
+</div>
